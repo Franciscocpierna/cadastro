@@ -1,4 +1,4 @@
-from user import get_user
+from core.user_core import get_user
 
 def main():
     
