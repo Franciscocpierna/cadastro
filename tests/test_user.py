@@ -1,4 +1,4 @@
-from cadastro.user import get_user
+from cadastro.core.user_core import get_user
 
 def test_check_type_to_dict():
 
