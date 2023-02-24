@@ -1,8 +1,6 @@
 
 .vscode
 venv-cadastro
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,python
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,python
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
@@ -191,5 +189,3 @@ poetry.toml
 # Ignore all local history of files
 .history
 .ionide
-
-# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python
