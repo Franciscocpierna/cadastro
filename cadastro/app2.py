@@ -1,10 +1,10 @@
+from user import get_user
+
 def main():
     
-    user:dict[str, str] = {
-        "user": "Sara Isabela Jennifer Porto"
-    }
+    user = get_user()
 
-    print(f"user:{user}")
+    print("2", user)
 
 
 if __name__ == "__main__":
