@@ -5,7 +5,7 @@ natodic = {"A":"Alfa","B":"Bravo","C":"Charlie","D":"Delta","E":"Echo","F":"Foxt
 
 guardaitem= []
 
-
+#codificação feita
 
 
 for r in real:
